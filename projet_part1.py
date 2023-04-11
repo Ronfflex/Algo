@@ -1,5 +1,3 @@
-# Commente le code suivant
-
 class AB:
     # Constructeur et setters
     def __init__(self, valeur=None, gauche=None, droite=None):
